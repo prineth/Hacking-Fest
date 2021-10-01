@@ -1,9 +1,12 @@
 body 
 {
+background-image: url('images/hacktober.jpg');
 height: 125vh;
 margin-top: 80px;
 padding: 30px;
+background-repeat: no-repeat;
 background-size: cover;
+background-attachment: fixed;
 font-family: sans-serif;
 }
 
