@@ -1,4 +1,4 @@
-body 
+body
 {
 background-image: url('images/hacktober.jpg');
 height: 125vh;
@@ -47,9 +47,9 @@ text-decoration: none;
 	<p>
 	If you are interested in the above,Please forward your CV to Mr.Aruna -<br>
 		Asst.Manager HR & Admin hr@abc.lk
-	
+
 	</p>
-	
+
 	<h4>
 	For future information call on: <br>
 	0115446000
@@ -58,12 +58,12 @@ text-decoration: none;
 </body>
 </html>
  CSS
- 
+
 h1{
     text-align: center;
     text-decoration: underline;
     font-weight: bold;
-    
+
 }
 p{
 text-align: justify;
@@ -73,4 +73,16 @@ font-family: garamond;
 h4{
     color: blue;
     font-family: Arial;
+}
+
+.bottom-container {
+  background-color: #d1ecf1;
+  padding: 50px 0 20px;
+	border-radius: 5px;
+}
+
+.copyright{
+  color: #000000;
+  font-size: 1.5rem;
+  padding-left: 425px;
 }
