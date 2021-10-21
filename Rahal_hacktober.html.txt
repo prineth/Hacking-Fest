@@ -4,7 +4,18 @@
 <title> document </title>
 </head>
 <h1> Rahal Abishek </h1>
-<h2> NSBM green University </h2>
-<h3> 21.1batch </h3>
+<h2> NSBM green University MIS Degree</h2>
+<p> NSBM Green University town is a UGC approved degree-awarding institution strives to create the perfect environment for its 
+students to mould them to be global individuals who are both team leaders and team players. 
+BSc in Management Information Systems (Special) programme at NSBM School of Computing is a carefully designed interdisciplinary program 
+focusing on both computing and business aspect. 
+The MIS graduate aims to leverage technology, people and processes to improve an organisation’s operational efficiency and 
+to make substantive contributions to the use of information systems in corporate decision making.
+This four-year program specifically targets to produce IS professionals with the required knowledge and skills. 
+During the first academic year, students are learning the fundamentals of computing which is essential to advance their knowledge in any computing discipline. 
+During the second year of studies, students are learning demanding topics in the computing industry. During the third year, students 
+learn IT-business oriented modules along with mandatory industry placement. During their final year, students are provided with knowledge 
+and understanding of diverse subject domains and an individual award project that allow them to showcase their learning over the years. </p>
+
 </body>
 </html>
