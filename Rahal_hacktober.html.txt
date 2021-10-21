@@ -4,7 +4,9 @@
 <title> document </title>
 </head>
 <h1> Rahal Abishek </h1>
-<p> Cyber security is the application of technologies, processes and controls to protect systems, networks, programs, devices and data from cyber attacks. 
-It aims to reduce the risk of cyber attacks and protect against the unauthorised exploitation of systems, networks and technologies. </p>
+<h2> What is Hacktober </h2>
+<p> Hacktoberfest is a month-long celebration of open source software run by DigitalOcean in partnership with GitHub and Twilio.
+ Hacktoberfest is open to everyone in our global community! Five quality pull requests must be submitted to public GitHub repositories. 
+You can sign up anytime between October 1 and October 31. </p>
 </body>
 </html>
