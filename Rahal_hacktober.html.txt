@@ -4,21 +4,7 @@
 <title> document </title>
 </head>
 <h1> Rahal Abishek </h1>
-<h2> IT relatead jobs </h2>
-<p> Support specialist.
-<br>
-    Computer programmer.
-<br>
-    Quality assurance tester.
-<br>
-    Web developer.
-<br>
-    IT technician.
-<br>
-    Systems analyst.
-<br>
-    Network engineer.
-<br>
-    User experience designer. </p>
+<h2> NSBM green University </h2>
+<h3> 21.1batch </h3>
 </body>
 </html>
