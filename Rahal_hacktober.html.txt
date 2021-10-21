@@ -4,8 +4,10 @@
 <title> document </title>
 </head>
 <h1> Rahal Abishek </h1>
-<h2> What is ransomware </h2>
-<p> Ransomware is a type of malicious software that infects a computer and restricts users' access to it until a ransom is paid to unlock it.
- Ransomware variants have been observed for several years and often attempt to extort money from victims by displaying an on-screen alert </p>
+<h2> Undeergraduate NSBM </h2>
+<p> Management Information Systems(UGC)
+Member of IEEE
+Member of FOSS Community
+Member of leo club </p>
 </body>
 </html>
