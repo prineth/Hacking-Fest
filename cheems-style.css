@@ -1,0 +1,32 @@
+.cheems-container {
+    border: 1px solid black;
+    padding: 10px;
+    width: 80%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.cheems-box, .cheems-buttons {
+    display: flex;
+    border: 1px solid black;
+    padding: 10px;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.cheems-buttons div {
+    display: flex;
+    padding: 10px;
+    border: 1px solid black;
+}
+
+.cheems-box img {
+    box-shadow: 0px 0px 40px 5px rgba(0,0,0,0.65);
+    margin: 15px;
+    max-width: 250px;
+    height: auto;
+}
+
+.cheems-box img:hover {
+    box-shadow: 0px 0px 40px 5px rgba(0, 0, 255, 0.75);
+}
